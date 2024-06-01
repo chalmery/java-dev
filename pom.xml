@@ -21,6 +21,7 @@
         <module>common</module>
         <module>sso</module>
         <module>java-base</module>
+        <module>leetcode</module>
     </modules>
 
     <properties>
